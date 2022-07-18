@@ -5,6 +5,8 @@ Just BOT and CMD menu but added more stuffs. Only for CS16Client Android.
 - Put the .pak file to your game data folder. (Ex: /sdcard/xash/cstrike)
 - Launch the game.
 - Check the botmenu and cmdmenu buttons in your touch config.
+- If you don't have them, create two buttons then specify the button commands with:
+- For the first button `exec touch/cmd/cmd`, second button `exec touch/bots/bots`
 # If the menu doesn't work
 - Check the other .pak files in the same folder. Some .pak files can overlap if they uses the same named files in the same directories. if there's more, remove them out of it then launch the game again.
 - Check the touch folder and .cfg files in it, because this menu uses buy config files. So you should remove them too.
