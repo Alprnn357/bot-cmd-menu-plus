@@ -1,5 +1,4 @@
 # BOT & CMD Menu Plus for CS16Client Android
-Just BOT and CMD menu but added more stuffs. Only for CS16Client Android.
 The goal of this repository i've created is to contribute CS16Client and Xash3D projects.
 # Installation
 - Download the latest .pak file from Releases section.
@@ -16,6 +15,4 @@ The goal of this repository i've created is to contribute CS16Client and Xash3D 
 # Credits
 This is the modification of [CS 1.6 VGUI Menus Project for CS16Client](https://bitbucket.org/SergioPoverony/cs16client-vgui-menus/src/master/) by Poverennov Sergey aka SergioPoverony and Mikhail Stepanov aka ahsim
 # Links
-Video preview: [isn't available]()
-
 Download: [Releases](https://github.com/Alprnn357/bot-cmd-menu-plus/releases)
