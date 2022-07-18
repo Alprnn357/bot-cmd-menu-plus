@@ -1,5 +1,6 @@
 # BOT & CMD Menu Plus for CS16Client Android
 Just BOT and CMD menu but added more stuffs. Only for CS16Client Android.
+The goal of this repository i've created is to contribute CS16Client and Xash3D projects.
 # Installation
 - Download the latest .pak file from Releases section.
 - Put the .pak file to your game data folder. (Ex: /sdcard/xash/cstrike)
