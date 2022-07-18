@@ -13,7 +13,7 @@ Just BOT and CMD menu but added more stuffs. Only for CS16Client Android.
 - Try to create a new folder named "custom" in the same folder then move the .pak file into it (This method is recommended)
 - Still same? Maybe you should check the path (which configs, game saves, etc. are stored) in the Xash3D App.
 # Credits
-This is the modification of [CS 1.6 VGUI Menus Project](https://bitbucket.org/SergioPoverony/cs16client-vgui-menus/src/master/) by Poverennov Sergey aka SergioPoverony and Mikhail Stepanov aka ahsim
+This is the modification of [CS 1.6 VGUI Menus Project for CS16Client](https://bitbucket.org/SergioPoverony/cs16client-vgui-menus/src/master/) by Poverennov Sergey aka SergioPoverony and Mikhail Stepanov aka ahsim
 # Links
 Video preview: [isn't available]()
 
